@@ -1,4 +1,4 @@
-
+# Original method
 $a = Measure-Command {
     $input = Get-Content("..\input.txt")
     foreach ($one in $input) {
@@ -18,13 +18,11 @@ Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
 # much better solution - take the 2020 minus the current number and see if that exists within the list
 # if it does then times the two together.
 
-# Attempt 2 with solution list above 
+#Improved
 $a = Measure-Command {
     $content = Get-Content("..\input.txt") 
-
     foreach ($i in $content) {
         $tofind = 2020 - [int]$i
-
         if ($content.Contains($tofind)) {
             $results = [int]$i * [int]$tofind
             Write-Host "Results: $results"
@@ -38,7 +36,7 @@ Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
 # Original solution for day 1 part 2 
 # takes ~1min 17seconds
 $a = Measure-Command {
-    $input = Get-Content(".\input.txt")
+    $input = Get-Content("..\input.txt")
     foreach ($item in $input) {
         foreach ($i in $input) {
             foreach ($p in $input) {
@@ -59,7 +57,7 @@ Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
 # Improved command as above
 # takes: ~300milliseconds
 $a = Measure-Command {
-    $content = Get-Content(".\input.txt")
+    $content = Get-Content("..\input.txt")
     foreach ($item in $content) {
         foreach ($i in $content) {
             $toFind = 2020 - [int]$item - [int]$i

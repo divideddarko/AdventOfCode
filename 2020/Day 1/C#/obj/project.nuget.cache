@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oc2foXr5bSsWs2sbgAJpzO3YuRoNtlfT/UFCACu48XmBKsNTIgnrtYQZu+3g+yc1X121NJ8snyNYiYR2pZbKew==",
+  "dgSpecHash": "yesIwLOohR4tlygiQZpB+Uahxr10k7srvHnbfgxxQXC2DjHDUpyWOwBz+/hSPoKb9Ka3cUqP9CjvJRjmJwxJhg==",
   "success": true,
-  "projectFilePath": "G:\\Documents\\AofCode\\Day 1\\C#\\Day1.csproj",
+  "projectFilePath": "G:\\Documents\\AofCode\\AdventOfCode\\2020\\Day 1\\C#\\Day1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

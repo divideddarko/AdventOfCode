@@ -9,20 +9,33 @@ namespace Day1
     {
         static void Main(string[] args)
         {
+            int results;
             Console.WriteLine($"Part 1:");
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
-            int results = PartOne();
+            results = PartOne();
+            Console.WriteLine($"Time: {stopwatch.Elapsed}");
+            Console.WriteLine($"1A: Results: {results}");
+            stopwatch.Stop();
+            stopwatch.Reset();
+            stopwatch.Start();
+            results = PartOneB();
+            Console.WriteLine($"Time: {stopwatch.Elapsed}");
+            Console.WriteLine($"1B: Results: {results}");
+            Console.WriteLine($"Part 2:");
+            stopwatch.Stop();
+            stopwatch.Reset();
+            stopwatch.Start();
+            results = PartTwo();
             stopwatch.Stop();
             Console.WriteLine($"Time: {stopwatch.Elapsed}");
             Console.WriteLine($"Results: {results}");
-            Console.WriteLine($"Part 2:");
             stopwatch.Reset();
             stopwatch.Start();
-            int r = PartTwo();
+            results = PartTwoB();
             stopwatch.Stop();
             Console.WriteLine($"Time: {stopwatch.Elapsed}");
-            Console.WriteLine($"Results: {r}");
+            Console.WriteLine($"Results: {results}");
         }
 
         public static int PartOne()
@@ -43,6 +56,21 @@ namespace Day1
             return 0;
         }
 
+        public static int PartOneB()
+        { 
+            int[] content = Array.ConvertAll(File.ReadAllLines("..\\input.txt"), stringInput => int.Parse(stringInput));
+            foreach (int item in content)
+            {
+                int toFind = 2020 - item;
+                if (content.Contains(toFind))
+                {
+                    int results = item * toFind;
+                    return results;
+                }
+            }
+            return 0;
+        }
+
         public static int PartTwo()
         {
             int[] content = Array.ConvertAll(File.ReadAllLines("..\\input.txt"), stringInput => int.Parse(stringInput));
@@ -57,6 +85,24 @@ namespace Day1
                             int results = item * item2 * item3;
                             return results;
                         }
+                    }
+                }
+            }
+            return 0;
+        }
+
+        public static int PartTwoB()
+        {
+            int[] content = Array.ConvertAll(File.ReadAllLines("..\\input.txt"), stringInput => int.Parse(stringInput));
+            foreach (int item in content)
+            {
+                foreach (var item2 in content)
+                {
+                    int toFind = 2020 - item - item2;
+                    if (content.Contains(toFind))
+                    {
+                        int results = item * item2 * toFind;
+                        return results;
                     }
                 }
             }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\divid\\.nuget\\packages\\": {}
+    "C:\\Users\\Work Account\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Documents\\AofCode\\Day 1\\C#\\Day1.csproj",
+      "projectUniqueName": "G:\\Documents\\AofCode\\AdventOfCode\\2020\\Day 1\\C#\\Day1.csproj",
       "projectName": "Day1",
-      "projectPath": "G:\\Documents\\AofCode\\Day 1\\C#\\Day1.csproj",
-      "packagesPath": "C:\\Users\\divid\\.nuget\\packages\\",
-      "outputPath": "G:\\Documents\\AofCode\\Day 1\\C#\\obj\\",
+      "projectPath": "G:\\Documents\\AofCode\\AdventOfCode\\2020\\Day 1\\C#\\Day1.csproj",
+      "packagesPath": "C:\\Users\\Work Account\\.nuget\\packages\\",
+      "outputPath": "G:\\Documents\\AofCode\\AdventOfCode\\2020\\Day 1\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\divid\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Work Account\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
