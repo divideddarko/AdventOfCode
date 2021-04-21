@@ -49,6 +49,8 @@ function callToAction(array, action)
     return [start, results]
 }
 
+:W
+
 fs.readFile('..\\input.txt', 'UTF8', (err, data) => {
     if (err) {
         console.log(err)

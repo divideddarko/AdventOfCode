@@ -1,0 +1,16 @@
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\solution.exe
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\solution.deps.json
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\solution.runtimeconfig.json
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\solution.runtimeconfig.dev.json
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\ref\solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\bin\Debug\net5.0\solution.pdb
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.csprojAssemblyReference.cache
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.AssemblyInfoInputs.cache
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.AssemblyInfo.cs
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.csproj.CoreCompileInputs.cache
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\ref\solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.pdb
+G:\Documents\AofCode\AdventOfCode\2020\Day 2\C#\solution\obj\Debug\net5.0\solution.genruntimeconfig.cache
