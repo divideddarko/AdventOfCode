@@ -7,13 +7,13 @@ $a = Measure-Command {
                 $counted = [int]$two + [int]$one
                 if ($counted -eq "2020") {
                     $results = [int]$i * [int]$one
-                    Write-Host "results: $results"
+                    #Write-Host "results: $results"
                 }
             }
         }
     }
 }
-Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
+Write-Host "A timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
 
 # much better solution - take the 2020 minus the current number and see if that exists within the list
 # if it does then times the two together.
@@ -25,12 +25,12 @@ $a = Measure-Command {
         $tofind = 2020 - [int]$i
         if ($content.Contains($tofind)) {
             $results = [int]$i * [int]$tofind
-            Write-Host "Results: $results"
+            #Write-Host "Results: $results"
             break
         }
     }
 }
-Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
+Write-Host "B timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
 
 
 # Original solution for day 1 part 2 
@@ -44,7 +44,7 @@ $a = Measure-Command {
                     $q = [int]$i + [int]$item + [int]$p
                     if ($q -eq "2020") {
                         $results = [int]$i * [int]$item * [int]$p
-                        Write-Host "results: $results"
+                        #Write-Host "results: $results"
                         return
                     }
                 }
@@ -52,7 +52,7 @@ $a = Measure-Command {
         }
     }
 }
-Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
+Write-Host "C timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
 
 # Improved command as above
 # takes: ~300milliseconds
@@ -63,10 +63,10 @@ $a = Measure-Command {
             $toFind = 2020 - [int]$item - [int]$i
             if ($content.Contains($toFind)) {
                 $results = [int]$i * [int]$item * [int]$p
-                Write-Host "results: $results"
+                #Write-Host "results: $results"
                 return
             }
         }
     }
 }
-Write-Host "timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"
+Write-Host "D timetake: $($a.minutes):$($a.Seconds):$($a.Milliseconds)"

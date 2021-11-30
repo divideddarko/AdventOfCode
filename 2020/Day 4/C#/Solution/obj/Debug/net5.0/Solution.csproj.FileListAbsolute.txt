@@ -1,0 +1,16 @@
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\Solution.exe
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\Solution.deps.json
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\Solution.runtimeconfig.json
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\Solution.runtimeconfig.dev.json
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\Solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\ref\Solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\bin\Debug\net5.0\Solution.pdb
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.csprojAssemblyReference.cache
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.AssemblyInfoInputs.cache
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.AssemblyInfo.cs
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.csproj.CoreCompileInputs.cache
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\ref\Solution.dll
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.pdb
+G:\Documents\AofCode\AdventOfCode\2020\Day 4\C#\Solution\obj\Debug\net5.0\Solution.genruntimeconfig.cache
