@@ -1,6 +1,8 @@
 # Advent Of Code
 This is a place where I put all my solutions to Advent of Code. Some parts may not be complete but the view below shows my currently stars as it stands on AOC website. I will oneday redo the code that is misplaced.
 
+The majority of code is completed in PowerShell but other languages may also be found.
+
 ___
 ## 2021
 
