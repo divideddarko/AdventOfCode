@@ -7,7 +7,7 @@ ___
 ## 2021
 
 <ol>
-  <li>Part One - Part Two</li>
+  <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
