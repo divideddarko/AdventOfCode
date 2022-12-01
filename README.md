@@ -4,6 +4,42 @@ This is a place where I put all my solutions to Advent of Code. Some parts may n
 The majority of code is completed in PowerShell but other languages may also be found.
 
 ___
+## 2022
+
+<ol>
+  <li>Part One ⭐ - Part Two ⭐</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+  <li>Part One - Part Two</li>
+ </ol>
+ 
 ## 2021
 
 <ol>
