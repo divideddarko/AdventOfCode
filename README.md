@@ -33,22 +33,12 @@ ___
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
  </ol>
  
 ## 2021
 
 <ol>
   <li>Part One ⭐ - Part Two ⭐</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
@@ -106,11 +96,6 @@ ___
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
  </ol>
  
  ___
@@ -121,11 +106,6 @@ ___
   <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One ⭐ - Part Two</li>
   <li>Part One ⭐ - Part Two ⭐</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
@@ -180,11 +160,6 @@ ___
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
  </ol>
  
 ___
@@ -192,11 +167,6 @@ ___
  
  <ol>
   <li>Part One ⭐ - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
@@ -254,11 +224,6 @@ ___
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
  </ol>
  
   ___
@@ -273,11 +238,6 @@ ___
   <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One ⭐ - Part Two ⭐</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
-  <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
