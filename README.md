@@ -10,7 +10,7 @@ ___
   <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One ⭐ - Part Two ⭐</li>
-  <li>Part One - Part Two</li>
+  <li>Part One ⭐ - Part Two ⭐</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
   <li>Part One - Part Two</li>
